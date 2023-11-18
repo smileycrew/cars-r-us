@@ -1,0 +1,9 @@
+.container-article1 {
+    display: flex;
+    gap: 30px;
+    padding: 20px;
+}
+
+.container-article2 {
+    padding: 40px;
+}
